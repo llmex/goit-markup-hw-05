@@ -729,8 +729,6 @@ button {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: #8e8f99;
-  display: flex;
-  align-items: center;
 }
 
 .modal .modal-privacy-link {
@@ -739,15 +737,6 @@ button {
   text-decoration-skip-ink: none;
   color: #4d5ae5;
 }
-
-/* .modal-check-text::before {
-  content: "";
-  width: 16px;
-  height: 16px;
-  border-radius: 2px;
-  border: 1px solid rgba(46, 47, 66, 0.4);
-  margin-right: 8px
-} */
 
 .modal-custom-checkbox {
   width: 16px;
@@ -774,7 +763,6 @@ button {
 }
 
 .modal-privacy-link {
-  margin-left: 6px;
 }
 
 .last-modal-field {
